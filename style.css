@@ -477,11 +477,11 @@ nav{
 /* <----ads slider----> */
 
 .slider{
-  width: 40%;
+  width: 60%;
    position: absolute;
-   transform: translate(2%,36%);
+   transform: translate(-35%,170%);
    left: 58%;
-   top: 193px;
+   top: 34%;
    overflow: hidden;
    
 }
