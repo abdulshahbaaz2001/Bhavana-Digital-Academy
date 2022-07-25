@@ -474,7 +474,28 @@ nav{
 .header1 .col-1 h3{
   font-size: 7mm;
 }
+/* <----ads slider----> */
+
 .slider{
-  display: none;
+  width: 40%;
+   position: absolute;
+   transform: translate(2%,36%);
+   left: 58%;
+   top: 193px;
+   overflow: hidden;
+   
 }
+.wrapper{
+  position: relative;
+  height: 50%;
+  width: 52%;
+  left: 66%;
+  top: 28%;
+}
+.slider .wrapper  img{
+  width: 66%;
+  height: 25%;
+ 
+}
+/* <----end ads slider----> */
 }
